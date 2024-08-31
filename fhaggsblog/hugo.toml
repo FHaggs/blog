@@ -1,0 +1,4 @@
+baseURL = 'https://fhaggs.github.io/'
+languageCode = 'en-us'
+title = 'FHaggs Blog'
+theme = 'HugoTeX'

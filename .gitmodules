@@ -1,0 +1,4 @@
+[submodule "fhaggsblog/public"]
+	path = fhaggsblog/public
+	url = https://github.com/FHaggs/fhaggs.github.io.git
+	branch = main
