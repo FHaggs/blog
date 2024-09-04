@@ -24,5 +24,6 @@ import os
 
 print("Hello")
 
+hugo -t HugoTeX
 ```
 ---
