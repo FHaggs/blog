@@ -1,4 +1,4 @@
-baseURL = 'https://fhaggs.github.io/'
+baseURL = 'https://fhaggs.xyz/'
 languageCode = 'en-us'
 title = 'FHaggs'
 theme = 'HugoTeX'
