@@ -2,6 +2,7 @@
 title = 'Free as in Freedom'
 date = 2025-03-09T15:58:57-03:00
 draft = false
+tags = ['programming']
 +++
 
 FREE AS IN FREEDOM
@@ -21,8 +22,8 @@ This victory for free software is just another reminder: _we’ve already won in
 the grand scheme of things_, but the work isn’t finished. In this post, I’d
 like to delve into the my thoughts of free software
 
-I highly advice to read the [what is free software](https://www.fsf.org/about/what-is-free-software)
-if you are not familiar with the term. I cant explain it better than the ones that coined the term.
+I highly advise reading the [what is free software](https://www.fsf.org/about/what-is-free-software)if you are not familiar with the term. I cant explain it better than the ones that coined the term.
+
 
 # Free Software Already Won  
 

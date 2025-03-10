@@ -2,6 +2,7 @@
 title = 'Weezer, this blog and you'
 date = 2024-10-17T15:59:24-03:00
 draft = false
+tags = ['commentary']
 +++
 
 Just Bee yourself!

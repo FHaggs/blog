@@ -13,7 +13,7 @@ Every time I see a post on LinkedIn, the most NPC wrote it, it's just the same t
 
 The worse thing about it, is that recruiters actually fall for this. They drool over posts littered with buzzwords like "AI" or "blockchain." They don’t understand any of it—they aren’t technical people. Yet, these non-technical folks are the ones who decide your future, based on how willing you are to conform to the cringe-worthy, soul-sucking spectacle that is LinkedIn.
 
-## HR ladies as social control
+## HR as social control
 You might think this setup—unqualified people hiring technical talent is unsustainable. The incentives are misaligned! right? But be aware, it’s not a bug, it’s a **feature**. It’s a humiliation ritual.
 
 **YOU WILL COMPLY.**
