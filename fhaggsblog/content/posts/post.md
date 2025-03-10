@@ -26,4 +26,8 @@ print("Hello")
 
 hugo -t HugoTeX
 ```
+
+If I need to reinstall this 
+git clone https://github.com/kaisugi/HugoTeX.git themes/HugoTeX
+inside fhaggs blog
 ---
