@@ -23,8 +23,8 @@ remeber to add to static/images
 import os
 
 print("Hello")
-
-hugo -t HugoTeX
+Compile: 
+    hugo -t HugoTeX
 ```
 
 If I need to reinstall this 
