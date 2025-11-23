@@ -12,7 +12,7 @@ When I was a kid, I was captivated by Minecraft. The idea of creating my own wor
 
 I always wanted this level of control in real life, but of course, it's impossible. There’s no such thing as infinite energy or food (though I still have plans to start my own farm someday).
 
-Perhaps what drew me to programming was the idea of being the master of my own world. An isolated environment where everything happens in an ordered manner appealed to me then—and it still does.
+Perhaps what drew me to programming was the idea of being the master of my own world. An isolated environment where everything happens in an ordered manner appealed to me then and it still does.
 
 I’ve always felt the urge to build something from scratch, but in today’s world, you can’t even make a [pencil](https://en.m.wikipedia.org/wiki/I,_Pencil) from scratch anymore. Programming, however, felt like truly creating something from nothing.
 
