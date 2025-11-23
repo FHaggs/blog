@@ -35,7 +35,7 @@ This is why simple, non-Turing-complete data formats like YAML or JSON are used 
 
 The Rust programming language offers a compelling modern example of this principle. Its design deliberately restricts the set of valid programs to prioritize safety that can be proven statically. The compiler's **borrow checker** enforces a strict set of rules regarding data ownership, lifetimes, and mutability. As a result, entire classes of common bugs, such as use-after-free errors and data races, are eliminated at compile time.
 
-This safety comes at a cost. Not all objectively correct programs are accepted by the compiler; it only permits a subset of safe programs, namely, those whose safety it can prove through its analysis. This echoes Turing's insight: one cannot have everything. A language can either allow maximum expressiveness at the risk of undetectable errors or restrict expressiveness to gain stronger guarantees.
+This safety comes at a cost. Not all objectively correct programs are accepted by the compiler; it only permits a subset of safe programs, namely, those whose safety it can prove through its analysis. You can't have the cake and eat it too. 
 
 For situations requiring low-level control, Rust provides the `unsafe` keyword. This keyword signals that the programmer is manually taking responsibility for upholding the language's safety invariants, allowing an escape from the compiler's restrictions when absolutely necessary.
 
